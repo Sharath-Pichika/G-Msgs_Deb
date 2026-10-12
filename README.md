@@ -18,7 +18,7 @@ An Electron desktop wrapper for Google Messages Web, packaged for Debian-based L
 Download `gmsgs_1.1.0_amd64.deb` from the [Releases page](https://github.com/Sharath-Pichika/G-Msgs_Deb/releases), then:
 
 ```bash
-sudo dpkg -i gmsgs_1.0.0_amd64.deb
+sudo dpkg -i gmsgs_1.1.0_amd64.deb
 sudo apt install -f
 ```
 
@@ -37,7 +37,7 @@ npm start
 npm install
 npm run dist
 ```
-The installer will be created at dist/gmsgs_1.0.0_amd64.deb
+The installer will be created at dist/gmsgs_1.1.0_amd64.deb
 
 ## Notes
 
